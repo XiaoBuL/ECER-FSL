@@ -1,0 +1,402 @@
+{
+  "Newfoundland": {
+    "relevant_entities": ["Large Dog", "Black Fur", "Working Breed", "Friendly Temperament", "Water Rescue", "Thick Coat"],
+    "irrelevant_entities": ["Small Cat", "Bird Wings", "Fish Scales", "Plant Leaves", "Vehicle Wheels"]
+  },
+  "carousel": {
+    "relevant_entities": ["Amusement Ride", "Colorful Lights", "Wooden Horses", "Circular Motion", "Music Playing"],
+    "irrelevant_entities": ["Kitchen Stove", "Office Desk", "Garden Hose", "Airplane Wings", "Dining Table"]
+  },
+  "bolete": {
+    "relevant_entities": ["Mushroom Cap", "Spongy Pores", "Forest Floor", "Edible Fungus", "Brown Color"],
+    "irrelevant_entities": ["Metal Spoon", "Plastic Bottle", "Cotton Cloth", "Glass Window", "Rubber Tire"]
+  },
+  "Walker hound": {
+    "relevant_entities": ["Hunting Dog", "Short Coat", "Agile Build", "Strong Scent", "Energetic Behavior"],
+    "irrelevant_entities": ["Aquatic Fish", "Tropical Bird", "Heavy Machinery", "Flower Petals", "Kitchen Utensils"]
+  },
+  "reel": {
+    "relevant_entities": ["Fishing Equipment", "Rotating Spool", "Line Storage", "Hand Crank", "Metal Frame"],
+    "irrelevant_entities": ["Wooden Chair", "Paper Book", "Digital Tablet", "Plastic Toy", "Fabric Curtain"]
+  },
+  "yawl": {
+    "relevant_entities": ["Sailing Boat", "Two Masts", "Wooden Hull", "Watercraft", "Coastal Navigation"],
+    "irrelevant_entities": ["Office Computer", "Concrete Building", "Land Vehicle", "Forest Tree", "Pet Cage"]
+  },
+  "miniature poodle": {
+    "relevant_entities": ["Small Dog", "Curly Fur", "Intelligent Breed", "Hypoallergenic Coat", "Companion Animal"],
+    "irrelevant_entities": ["Large Horse", "Ocean Fish", "Reptile Scales", "Garden Plant", "Musical Instrument"]
+  },
+  "prayer rug": {
+    "relevant_entities": ["Religious Mat", "Ornate Patterns", "Soft Fabric", "Small Size", "Sacred Use"],
+    "irrelevant_entities": ["Metal Spoon", "Office Desk", "Wall Clock", "Car Engine", "Rubber Boot"]
+  },
+  "chime": {
+    "relevant_entities": ["Musical Instrument", "Metal Tubes", "Wind Activated", "Melodic Sound", "Hanging Object"],
+    "irrelevant_entities": ["Plastic Bottle", "Stone Wall", "Wooden Chair", "Glass Window", "Cotton Shirt"]
+  },
+  "worm fence": {
+    "relevant_entities": ["Zigzag Pattern", "Wooden Posts", "Rural Area", "Historical Style", "Boundary Marker"],
+    "irrelevant_entities": ["Metal Car", "Stone Pathway", "Digital Camera", "Fabric Tent", "Water Fountain"]
+  },
+  "beer bottle": {
+    "relevant_entities": ["Glass Container", "Beverage Inside", "Brown or Green Color", "Cap Seal", "Drinkable Liquid"],
+    "irrelevant_entities": ["Wooden Table", "Cotton Cloth", "Metal Hammer", "Plastic Toy", "Paper Book"]
+  },
+  "komondor": {
+    "relevant_entities": ["Large Dog", "Corded Coat", "Guard Dog", "White Fur", "Herding Breed"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "tobacco shop": {
+    "relevant_entities": ["Cigarette Packs", "Cigars Display", "Tobacco Products", "Humidor", "Rolling Papers"],
+    "irrelevant_entities": ["Plastic Chair", "Stone Wall", "Wooden Table", "Metal Car", "Digital Tablet"]
+  },
+  "tank": {
+    "relevant_entities": ["Armored Vehicle", "Military Equipment", "Heavy Tracks", "Cannon Gun", "Combat Use"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Shirt", "Paper Book"]
+  },
+  "cliff": {
+    "relevant_entities": ["Steep Rock", "High Altitude", "Sheer Drop", "Coastal Edge", "Natural Formation"],
+    "irrelevant_entities": ["Metal Car", "Plastic Bottle", "Wooden Chair", "Fabric Curtain", "Digital Camera"]
+  },
+  "file": {
+    "relevant_entities": ["Metal Tool", "Rough Surface", "Sharpening Use", "Handheld Item", "Tool Box"],
+    "irrelevant_entities": ["Plastic Toy", "Glass Bottle", "Cotton Cloth", "Wooden Table", "Digital Screen"]
+  },
+  "consomme": {
+    "relevant_entities": ["Clear Soup", "Broth Base", "Culinary Dish", "Bowl Served", "Fine Dining"],
+    "irrelevant_entities": ["Metal Spoon", "Plastic Toy", "Wooden Chair", "Stone Wall", "Digital Tablet"]
+  },
+  "green mamba": {
+    "relevant_entities": ["Venomous Snake", "Green Scales", "Arboreal Habitat", "Fast Movement", "Long Body"],
+    "irrelevant_entities": ["Plastic Toy", "Wooden Table", "Metal Spoon", "Fabric Curtain", "Digital Screen"]
+  },
+  "oboe": {
+    "relevant_entities": ["Woodwind Instrument", "Double Reed", "Classical Music", "Orchestra Use", "Cylindrical Shape"],
+    "irrelevant_entities": ["Metal Spoon", "Plastic Toy", "Wooden Chair", "Stone Wall", "Digital Tablet"]
+  },
+  "dishrag": {
+    "relevant_entities": ["Cleaning Cloth", "Fabric Material", "Kitchen Use", "Absorbent Texture", "Reusable Item"],
+    "irrelevant_entities": ["Metal Spoon", "Plastic Bottle", "Wooden Chair", "Glass Window", "Stone Wall"]
+  },
+  "hair slide": {
+    "relevant_entities": ["Hair Accessory", "Decorative Item", "Metal or Plastic", "Holds Hair", "Small Size"],
+    "irrelevant_entities": ["Wooden Table", "Fabric Curtain", "Metal Spoon", "Glass Bottle", "Digital Screen"]
+  },
+  "wok": {
+    "relevant_entities": ["Cooking Pan", "Round Bottom", "Stir-Fry Use", "Asian Cuisine", "Metal Construction"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "slot": {
+    "relevant_entities": ["Narrow Opening", "Coin Insertion", "Machine Feature", "Gaming Device", "Metal Construction"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Bottle", "Fabric Curtain", "Stone Wall", "Digital Camera"]
+  },
+  "lipstick": {
+    "relevant_entities": ["Cosmetic Item", "Colored Tube", "Lip Makeup", "Portable Size", "Fashion Accessory"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Cotton Shirt"]
+  },
+  "three-toed sloth": {
+    "relevant_entities": ["Arboreal Mammal", "Slow Movement", "Long Claws", "Brown Fur", "Tropical Habitat"],
+    "irrelevant_entities": ["Metal Car", "Plastic Bottle", "Wooden Chair", "Fabric Curtain", "Digital Screen"]
+  },
+  "holster": {
+    "relevant_entities": ["Gun Holder", "Leather Material", "Belt Attachment", "Concealed Carry", "Law Enforcement"],
+    "irrelevant_entities": ["Wooden Table", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "Tibetan mastiff": {
+    "relevant_entities": ["Large Dog", "Thick Fur", "Guard Dog", "Strong Build", "Protective Nature"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "Arctic fox": {
+    "relevant_entities": ["Small Mammal", "White Fur", "Cold Habitat", "Bushy Tail", "Adaptable Nature"],
+    "irrelevant_entities": ["Large Elephant", "Tropical Bird", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "fire screen": {
+    "relevant_entities": ["Fireplace Accessory", "Protective Barrier", "Metal Mesh", "Decorative Design", "Heat Shield"],
+    "irrelevant_entities": ["Wooden Table", "Plastic Toy", "Glass Window", "Fabric Curtain", "Digital Screen"]
+  },
+  "photocopier": {
+    "relevant_entities": ["Office Equipment", "Paper Copies", "Digital Display", "Printing Function", "Large Machine"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Bottle", "Fabric Curtain"]
+  },
+  "unicycle": {
+    "relevant_entities": ["Single Wheel", "Pedal Powered", "Circus Performance", "Balance Required", "Metal Frame"],
+    "irrelevant_entities": ["Wooden Table", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "parallel bars": {
+    "relevant_entities": ["Gymnastics Equipment", "Two Bars", "Exercise Apparatus", "Metal Construction", "Athletic Training"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Bottle", "Cotton Shirt", "Digital Screen"]
+  },
+  "jellyfish": {
+    "relevant_entities": ["Marine Animal", "Transparent Body", "Tentacles", "Ocean Habitat", "Floating Motion"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Bottle", "Metal Spoon", "Fabric Curtain", "Digital Screen"]
+  },
+  "Gordon setter": {
+    "relevant_entities": ["Large Dog", "Black and Tan Fur", "Hunting Breed", "Long Ears", "Energetic Nature"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "stage": {
+    "relevant_entities": ["Performance Area", "Elevated Platform", "Theater Use", "Wooden Construction", "Spotlight"],
+    "irrelevant_entities": ["Metal Car", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "robin": {
+    "relevant_entities": ["Small Bird", "Red Breast", "Forest Habitat", "Insect Diet", "Melodic Song"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Bottle", "Metal Spoon", "Fabric Curtain", "Digital Screen"]
+  },
+  "solar dish": {
+    "relevant_entities": ["Energy Collector", "Reflective Surface", "Solar Power", "Outdoor Installation", "Large Size"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "tile roof": {
+    "relevant_entities": ["Building Covering", "Clay Material", "Overlapping Tiles", "Weather Protection", "Architectural Feature"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Bottle", "Fabric Curtain"]
+  },
+  "rock beauty": {
+    "relevant_entities": ["Tropical Fish", "Bright Colors", "Coral Reef", "Aquarium Species", "Marine Habitat"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "orange": {
+    "relevant_entities": ["Citrus Fruit", "Orange Peel", "Juicy Segments", "Vitamin C", "Edible Food"],
+    "irrelevant_entities": ["Wooden Table", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "house finch": {
+    "relevant_entities": ["Small Bird", "Red Plumage", "Urban Habitat", "Seed Diet", "Melodic Song"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Bottle", "Metal Spoon", "Fabric Curtain", "Digital Screen"]
+  },
+  "aircraft carrier": {
+    "relevant_entities": ["Naval Ship", "Flight Deck", "Military Use", "Aircraft Storage", "Large Size"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "pencil box": {
+    "relevant_entities": ["Stationery Container", "Rectangular Shape", "School Supply", "Lid Cover", "Plastic or Metal"],
+    "irrelevant_entities": ["Wooden Chair", "Fabric Curtain", "Metal Spoon", "Glass Bottle", "Digital Screen"]
+  },
+  "cocktail shaker": {
+    "relevant_entities": ["Bar Tool", "Metal Container", "Drink Mixing", "Lid and Strainer", "Cylindrical Shape"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "snorkel": {
+    "relevant_entities": ["Breathing Tube", "Underwater Use", "Mask Attachment", "Flexible Material", "Swimming Gear"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "hotdog": {
+    "relevant_entities": ["Sausage Bun", "Grilled Meat", "Street Food", "Condiments Added", "Handheld Snack"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "clog": {
+    "relevant_entities": ["Wooden Shoe", "Traditional Footwear", "Hard Sole", "Slip-On Design", "Cultural Item"],
+    "irrelevant_entities": ["Plastic Bottle", "Metal Spoon", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "French bulldog": {
+    "relevant_entities": ["Small Dog", "Short Fur", "Bat Ears", "Playful Nature", "Companion Breed"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "dome": {
+    "relevant_entities": ["Curved Roof", "Architectural Feature", "Large Interior Space", "Circular Base", "Structural Design"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "frying pan": {
+    "relevant_entities": ["Cooking Tool", "Flat Bottom", "Metal Material", "Long Handle", "Skillet Use"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "ladybug": {
+    "relevant_entities": ["Small Insect", "Red Shell", "Black Spots", "Garden Habitat", "Beneficial Bug"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "barrel": {
+    "relevant_entities": ["Wooden Container", "Cylindrical Shape", "Liquid Storage", "Metal Hoops", "Large Size"],
+    "irrelevant_entities": ["Plastic Toy", "Metal Spoon", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "boxer": {
+    "relevant_entities": ["Medium Dog", "Short Fur", "Muscular Build", "Energetic Nature", "Guard Breed"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "Saluki": {
+    "relevant_entities": ["Hunting Dog", "Slim Build", "Long Legs", "Fast Runner", "Short Fur"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "toucan": {
+    "relevant_entities": ["Tropical Bird", "Large Beak", "Colorful Plumage", "Forest Habitat", "Fruit Diet"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Bottle", "Metal Spoon", "Fabric Curtain", "Digital Screen"]
+  },
+  "street sign": {
+    "relevant_entities": ["Metal Plate", "Public Information", "Road Indicator", "Mounted on Post", "Reflective Surface"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "triceratops": {
+    "relevant_entities": ["Dinosaur", "Three Horns", "Frilled Neck", "Herbivorous Diet", "Prehistoric Animal"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "dugong": {
+    "relevant_entities": ["Marine Mammal", "Gray Skin", "Herbivorous Diet", "Rounded Head", "Coastal Habitat"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "ashcan": {
+    "relevant_entities": ["Metal Container", "Waste Disposal", "Cylindrical Shape", "Outdoor Use", "Lid Cover"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Bottle", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "harvestman": {
+    "relevant_entities": ["Arachnid", "Long Legs", "Small Body", "Forest Habitat", "Insect Diet"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "organ": {
+    "relevant_entities": ["Musical Instrument", "Keyboard", "Large Pipes", "Church Use", "Classical Music"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "upright": {
+    "relevant_entities": ["Vertical Position", "Standing Form", "Structural Support", "Elevated Posture", "Perpendicular Alignment"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "ear": {
+    "relevant_entities": ["Hearing Organ", "External Part", "Sound Detection", "Facial Feature", "Biological Structure"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "spider web": {
+    "relevant_entities": ["Silken Threads", "Arachnid Structure", "Sticky Trap", "Circular Pattern", "Insect Catcher"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "lion": {
+    "relevant_entities": ["Large Cat", "Mane Fur", "Savannah Habitat", "Carnivorous Diet", "Pride Living"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "cuirass": {
+    "relevant_entities": ["Body Armor", "Metal Plates", "Medieval Protection", "Chest Cover", "Historical Warfare"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "crate": {
+    "relevant_entities": ["Wooden Box", "Storage Container", "Rectangular Shape", "Transport Use", "Sturdy Construction"],
+    "irrelevant_entities": ["Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain", "Digital Screen"]
+  },
+  "malamute": {
+    "relevant_entities": ["Large Dog", "Thick Fur", "Sled Dog", "Cold Climate", "Strong Build"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "bookshop": {
+    "relevant_entities": ["Retail Store", "Bookshelves", "Printed Books", "Reading Area", "Literature Sales"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "theater curtain": {
+    "relevant_entities": ["Stage Drape", "Red Fabric", "Performance Use", "Opening and Closing", "Background Setting"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Metal Spoon", "Digital Screen"]
+  },
+  "mixing bowl": {
+    "relevant_entities": ["Kitchen Tool", "Round Container", "Food Preparation", "Metal or Plastic", "Cooking Use"],
+    "irrelevant_entities": ["Wooden Chair", "Fabric Curtain", "Glass Window", "Metal Spoon", "Digital Screen"]
+  },
+  "ant": {
+    "relevant_entities": ["Small Insect", "Colony Living", "Six Legs", "Pheromone Trails", "Worker Castes"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "scoreboard": {
+    "relevant_entities": ["Sports Equipment", "Digital Display", "Game Scores", "Large Screen", "Timekeeping"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "black-footed ferret": {
+    "relevant_entities": ["Small Mammal", "Black Feet", "Prairie Habitat", "Carnivorous Diet", "Endangered Species"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "nematode": {
+    "relevant_entities": ["Roundworm", "Microscopic Size", "Soil Habitat", "Parasitic Behavior", "Cylindrical Body"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "electric guitar": {
+    "relevant_entities": ["Musical Instrument", "Stringed Device", "Amplified Sound", "Rock Music", "Solid Body"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "trifle": {
+    "relevant_entities": ["Dessert Dish", "Layered Ingredients", "Custard and Cream", "Sweet Treat", "Glass Bowl"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "school bus": {
+    "relevant_entities": ["Large Vehicle", "Yellow Color", "Student Transport", "Seating Rows", "Stop Sign"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "king crab": {
+    "relevant_entities": ["Marine Animal", "Large Claws", "Hard Shell", "Ocean Habitat", "Edible Seafood"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Fabric Curtain", "Digital Screen"]
+  },
+  "hourglass": {
+    "relevant_entities": ["Timekeeping Device", "Sand Timer", "Glass Enclosure", "Fixed Duration", "Decorative Item"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "African hunting dog": {
+    "relevant_entities": ["Wild Canine", "Spotted Coat", "Pack Hunter", "Savanna Habitat", "Endangered Species"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "dalmatian": {
+    "relevant_entities": ["Medium Dog", "White Fur", "Black Spots", "Firehouse Mascot", "Energetic Nature"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "vase": {
+    "relevant_entities": ["Flower Container", "Ceramic Material", "Decorative Design", "Tall Shape", "Home Decor"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "golden retriever": {
+    "relevant_entities": ["Large Dog", "Golden Fur", "Friendly Nature", "Family Pet", "Hunting Breed"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "combination lock": {
+    "relevant_entities": ["Security Device", "Rotating Dials", "Numeric Code", "Metal Construction", "Locking Mechanism"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Fabric Curtain", "Digital Screen"]
+  },
+  "meerkat": {
+    "relevant_entities": ["Small Mammal", "Social Group", "Desert Habitat", "Standing Posture", "Burrowing Animal"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "carton": {
+    "relevant_entities": ["Paper Container", "Rectangular Shape", "Packaging Material", "Storage Use", "Foldable Design"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "cannon": {
+    "relevant_entities": ["Military Weapon", "Large Barrel", "Gunpowder Charge", "Historic Use", "Heavy Artillery"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "poncho": {
+    "relevant_entities": ["Clothing Item", "Waterproof Material", "Hooded Design", "Rain Protection", "Loose Fit"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Digital Screen"]
+  },
+  "catamaran": {
+    "relevant_entities": ["Sailing Boat", "Dual Hulls", "Watercraft", "Recreational Use", "Marine Vessel"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "miniskirt": {
+    "relevant_entities": ["Clothing Item", "Short Length", "Fashion Wear", "Fabric Material", "Modern Style"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Digital Screen"]
+  },
+  "rhinoceros beetle": {
+    "relevant_entities": ["Large Insect", "Horned Head", "Hard Exoskeleton", "Forest Habitat", "Strong Build"],
+    "irrelevant_entities": ["Large Elephant", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "garbage truck": {
+    "relevant_entities": ["Large Vehicle", "Waste Collection", "Rear Loader", "Urban Service", "Heavy Machinery"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "iPod": {
+    "relevant_entities": ["Portable Device", "Music Player", "Apple Product", "Touch Screen", "Digital Media"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Fabric Curtain"]
+  },
+  "white wolf": {
+    "relevant_entities": ["Large Canine", "White Fur", "Arctic Habitat", "Pack Animal", "Predatory Behavior"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  },
+  "missile": {
+    "relevant_entities": ["Projectile Weapon", "Aerodynamic Shape", "Explosive Payload", "Military Use", "Guided System"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Fabric Curtain"]
+  },
+  "horizontal bar": {
+    "relevant_entities": ["Gymnastics Equipment", "Metal Rod", "Athletic Training", "High Bar", "Exercise Apparatus"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Glass Window", "Cotton Cloth", "Digital Screen"]
+  },
+  "goose": {
+    "relevant_entities": ["Large Bird", "Long Neck", "Webbed Feet", "Waterfowl", "Migratory Species"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "coral reef": {
+    "relevant_entities": ["Marine Ecosystem", "Colorful Corals", "Tropical Waters", "Diverse Species", "Underwater Habitat"],
+    "irrelevant_entities": ["Wooden Chair", "Plastic Toy", "Metal Spoon", "Glass Window", "Fabric Curtain"]
+  },
+  "Ibizan hound": {
+    "relevant_entities": ["Medium Dog", "Short Fur", "Hunting Breed", "Slim Build", "Energetic Nature"],
+    "irrelevant_entities": ["Small Bird", "Aquatic Fish", "Flower Petals", "Metal Spoon", "Plastic Bag"]
+  }
+}
